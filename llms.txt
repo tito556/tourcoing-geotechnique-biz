@@ -1,0 +1,47 @@
+# Geotechnique — Tourcoing
+
+> Geotechnical engineering services in Tourcoing, France.
+
+## Services
+- [Amelioration Sols](https://tourcoing.geotechnique.biz/amelioration-sols/)
+- [Chaussee Rigide](https://tourcoing.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://tourcoing.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://tourcoing.geotechnique.biz/colonnes-ballastees/)
+- [Densite Cone Sable](https://tourcoing.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://tourcoing.geotechnique.biz/essai-cpt/)
+- [Essai Plaque Charge](https://tourcoing.geotechnique.biz/essai-plaque-charge/)
+- [Excavations](https://tourcoing.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://tourcoing.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://tourcoing.geotechnique.biz/fondations/)
+- [Geophysique](https://tourcoing.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://tourcoing.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://tourcoing.geotechnique.biz/granulometrie/)
+- [Injections](https://tourcoing.geotechnique.biz/injections/)
+- [Investigation](https://tourcoing.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://tourcoing.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://tourcoing.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://tourcoing.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://tourcoing.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://tourcoing.geotechnique.biz/liquefaction/)
+- [Microzonage Sismique](https://tourcoing.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://tourcoing.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://tourcoing.geotechnique.biz/permeabilite-in-situ/)
+- [Puits Inspection](https://tourcoing.geotechnique.biz/puits-inspection/)
+- [Radiers](https://tourcoing.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://tourcoing.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://tourcoing.geotechnique.biz/resistivite/)
+- [Semelles](https://tourcoing.geotechnique.biz/semelles/)
+- [Sismique](https://tourcoing.geotechnique.biz/sismique/)
+- [Sondages Spt](https://tourcoing.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://tourcoing.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://tourcoing.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://tourcoing.geotechnique.biz/talus/)
+- [Tunnels Sol Mou](https://tourcoing.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://tourcoing.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://tourcoing.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Tourcoing, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
